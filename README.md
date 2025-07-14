@@ -1,2 +1,3 @@
 # District_complaints
-Portal for submission of District level grievances and receive help
+A portal for submission of District-level grievances and receiving help
+<h1> Author - Rupsha </h1>
